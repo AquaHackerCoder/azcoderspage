@@ -1,0 +1,59 @@
+<html>
+  <head>
+   <style>
+  table
+    {
+      border-color:#00ffff;
+    }
+   </style> 
+  </head>
+<body>
+ <table border=5>
+   <tr>
+    <th>
+      Classes
+    </th>
+    <th>
+      Starts
+    </th>
+    <th>
+    Ends
+    </th>
+    <th>
+      Cost of Classes
+    </th>
+   </tr>
+   
+   <tr>
+     <td> HTML </td>
+     <td> 10:00 am </td>
+     <td>11:00 am</td>  
+     <td>$5 per day </td>
+  </tr>
+  
+    <tr>
+     <td> CSS </td>
+     <td> 12:30 pm </td>
+     <td>1:30 pm</td>  
+     <td>$10 per week </td>
+  </tr>
+  
+    <tr>
+     <td>JAVA</td>
+     <td>1:45 pm</td>
+     <td>2:45 pm</td>  
+     <td>$15-20 per month </td>
+  </tr>
+  
+    <tr>
+     <td> SCRATCH </td>
+     <td>2:55 pm</td>
+     <td>3:55pm</td>  
+     <td>Free 5 week course! but if continued that'll be $1 each every day! </td>
+  </tr>
+`
+   
+
+ </table>
+</body>
+</html>
